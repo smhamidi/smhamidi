@@ -1,18 +1,20 @@
+[![MasterHead](https://github.com/smhamidi/smhamidi/blob/main/Banner.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Seyyed Mohammad Hamidi</h1>
 <h3 align="center">A Passionate Control-Science Engineer Who Also 💙️ Programming</h3>
 
 - 🔭 I’m currently working on **PoemScraping**
 
-- 🌱 I’m currently learning **Python, MachineLearning and web scraping**
+- 🌱 I’m currently learning **Python, MachineLearning and Web-Scraping**
 
-- 💬 Ask me about **c++, Python**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **1380hamidi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/2001.hamidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2001.hamidi" height="30" width="40" /></a>
-<a href="https://discord.com/users/986911034797330442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smai#6068" height="30" width="40" /></a>
+<a href="https://t.me/rsmhamidi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="rsmhamidi" height="30" width="40" /></a>
+<a href="https://discord.com/users/986911034797330442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smai#6068" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
