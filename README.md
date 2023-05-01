@@ -3,7 +3,7 @@
 <h1 align="center">Seyyed Mohammad Hamidi</h1>
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
 
-- 🔭 I’m currently working on [**PoemScraping**](https://github.com/smhamidi/WrittenForFun_PoemScraping_Python)
+- 🔭 I’m currently working on [**StockPrediction**](https://github.com/smhamidi/WrittenForFun_StockPrediction)
 
 - 🌱 I’m currently learning **Python, MachineLearning and Web-Scraping**
 
