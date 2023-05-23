@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/smhamidi/smhamidi/blob/main/Banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/smhamidi/smhamidi/blob/main/Banner.gif)]
 
 <h1 align="center">Seyyed Mohammad Hamidi</h1>
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
