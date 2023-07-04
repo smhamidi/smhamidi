@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**StockPrediction**](https://github.com/smhamidi/WrittenForFun_StockPrediction) (private)
 
-- 🌱 I’m currently learning **Python, MachineLearning and Web-Scraping**
+- 🌱 I’m currently learning **Solidity, Python and MachineLearning**
 
 - 💬 Ask me about **C++, Python**
 
