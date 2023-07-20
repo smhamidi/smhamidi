@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/smhamidi/smhamidi/blob/main/Banner.gif)
-
 <h1 align="center">Seyyed Mohammad Hamidi</h1>
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
 
@@ -9,12 +7,11 @@
 
 - 💬 Ask me about **C++, Python**
 
-- 📬️ reach me via **1380hamidi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You Can Reach Me VIA:</h3>
 <p align="left">
-<a href="https://t.me/rsmhamidi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="rsmhamidi" height="35" width="35" /></a>
+<a href="mailto:1380hamidi@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="1380hamidi@gmail.com" height="35" width="35" /></a>
 <a href="https://discord.com/users/986911034797330442" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="smai#6068" height="35" width="35" /></a>
+<a href="https://t.me/rsmhamidi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="rsmhamidi" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
