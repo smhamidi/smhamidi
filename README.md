@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
-<img width="60%" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=150&size=24&duration=3000&pause=1000&color=A71D9D&background=1F559C8B&center=true&vCenter=true&repeat=false&width=550&lines=%3C+Hi+there%2C+I'm+Mohammad!+%F0%9F%91%8B+%3E;%3C+I+am%2C+just+a+message+away!+%F0%9F%93%A8+%3E">
+<img width="60%" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=150&size=24&duration=3000&pause=1000&color=A71D9D&background=1F559C8B&center=true&vCenter=true&repeat=true&width=550&lines=%3C+Hi+there%2C+I'm+Mohammad!+%F0%9F%91%8B+%3E;%3C+I+am%2C+just+a+message+away!+%F0%9F%93%A8+%3E">
 </a></hp>
 
 <h1 align="center">Seyyed Mohammad Hamidi</h1>
