@@ -56,7 +56,7 @@
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank"> <img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
 <!-- Foundry -->
-<a href="https://getfoundry.sh/"> <img src="./images/Languages-Tools-images/Foundry.png" alt="Foundry" width="45" height="40"/> </a>
+<a href="https://getfoundry.sh/"> <img src="./images/Languages-Tools-images/Foundry.png" alt="Foundry" width="40" height="40"/> </a>
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank"> <img src="./images/Languages-Tools-images/Docker.png" alt="Docker" width="40" height="40"/> </a>
 <!-- QT -->
