@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [**Learning Solidity**](https://github.com/smhamidi/Learning_Solidity_PatrickCollins) (Public)
 
-- 🌱 I’m currently learning **Solidity, Python and MachineLearning**
+- 🌱 I’m currently learning **Web Development and Solidity**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **Solidity, C++ and Python**
 
-<h3 align="left">You Can Reach Me VIA:</h3>
+<h3 align="left">You can reach me via:</h3>
 <p align="left">
 <a href="mailto:1380hamidi@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="1380hamidi@gmail.com" height="35" width="35" /></a>
 <a href="https://discord.com/users/986911034797330442" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="smai#6068" height="35" width="35" /></a>
