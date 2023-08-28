@@ -21,7 +21,7 @@
 
 <div align="left">
 <!-- Gmail -->
-<a href="mailto:1380hamidi@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail@1380hamidi@gmail.com" width="40" height="40"/></a>
+<a href="mailto:1380hamidi@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: 1380hamidi@gmail.com" width="40" height="40"/></a>
 <!-- Discord -->
 <a href="https://discord.com/users/986911034797330442" target="_blank"><img align="center" src="./images/Contact-via-images/Discord.png" alt="Discord@smai#6068" width="40" height="40" /></a>
 <!-- Telegram -->
