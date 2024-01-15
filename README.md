@@ -33,34 +33,34 @@
 <div align="left">
 <!-- OS -->
 <!-- bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="./images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
 <!-- linux -->
-<a href="https://www.linux.org/" target="_blank"> <img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"><img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
 <!-- Languages -->
 <!-- Solidity -->
-<a href="https://soliditylang.org/"> <img src="./images/Languages-Tools-images/Solidity.svg" alt="Solidity" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/"><img src="./images/Languages-Tools-images/Solidity.svg" alt="Solidity" width="40" height="40"/></a>
 <!-- python -->
-<a href="https://www.python.org" target="_blank"> <img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"><img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
 <!-- CPP -->
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./images/Languages-Tools-images/CPP.png" alt="CPP" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./images/Languages-Tools-images/CPP.png" alt="CPP" width="40" height="40"/></a>
 <!-- JavaScript -->
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="./images/Languages-Tools-images/JavaScript.png" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img src="./images/Languages-Tools-images/JavaScript.png" alt="JavaScript" width="40" height="40"/></a>
 <!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./images/Languages-Tools-images/CSS.png" alt="CSS" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="./images/Languages-Tools-images/CSS.png" alt="CSS" width="40" height="40"/></a>
 <!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="./images/Languages-Tools-images/HTML.png" alt="HTML" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="./images/Languages-Tools-images/HTML.png" alt="HTML" width="40" height="40"/></a>
 <!-- Postgresql -->
-<a href="https://www.postgresql.org/" target="_blank"> <img src="./images/Languages-Tools-images/Postgresql.svg" alt="Postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="./images/Languages-Tools-images/Postgresql.svg" alt="Postgresql" width="40" height="40"/></a>
 <!-- Matalb -->
-<a href="https://www.mathworks.com/" target="_blank"> <img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
 <!-- Git -->
-<a href="https://git-scm.com/" target="_blank"> <img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
 <!-- Foundry -->
-<a href="https://getfoundry.sh/"> <img src="./images/Languages-Tools-images/Foundry.png" alt="Foundry" width="40" height="40"/> </a>
+<a href="https://getfoundry.sh/"><img src="./images/Languages-Tools-images/Foundry.png" alt="Foundry" width="40" height="40"/></a>
 <!-- Docker -->
-<a href="https://www.docker.com/" target="_blank"> <img src="./images/Languages-Tools-images/Docker.png" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"><img src="./images/Languages-Tools-images/Docker.png" alt="Docker" width="40" height="40"/></a>
 <!-- QT -->
-<a href="https://www.qt.io/" target="_blank"> <img src="./images/Languages-Tools-images/QT.svg" alt="QT" width="40" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank"><img src="./images/Languages-Tools-images/QT.svg" alt="QT" width="40" height="40"/></a>
 </div>
 
 <!-- Github Stats -->
