@@ -10,9 +10,9 @@
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
 
 <!-- Quick Summary About My recent state -->
-<p><li>🔭 I’m currently working on <strong><a href="https://github.com/smhamidi/Learning_Solidity_PatrickCollins">Learning Solidity</a></strong> (Public)</li></p>
+<p><li>🔭 I’m currently working on <strong>Building a Quoridor game</a></strong></li></p>
 
-<p><li>🌱 I’m currently learning <strong>Web Development and Solidity</strong></li></p>
+<p><li>🌱 I’m currently learning <strong>Web Development and React</strong></li></p>
 
 <p><li>💬 Ask me about <strong>Solidity, C++ and Python<strong></p>
 
