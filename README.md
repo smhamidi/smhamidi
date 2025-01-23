@@ -66,5 +66,5 @@
 <!-- Github Stats -->
 <div>
   <img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhamidi&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="smhamidi most used languages" />
-  <img width="57%" align="center" src="https://github-readme-streak-stats-ten-tau.vercel.app?user=smhamidi&theme=vue-dark&hide_border=true&type=png" alt="smhamidi contributions" />
+  <img src="https://github-readme-streak-stats-ten-tau.vercel.app?user=smhamidi&theme=vue-dark&hide_border=true&exclude_days=Thu%2CFri" alt="GitHub Streak" />
 </div>
