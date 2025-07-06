@@ -10,20 +10,20 @@
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
 
 <!-- Quick Summary About My recent state -->
-<p><li>🔭 I’m currently working on <strong>Building a Squadro game</a></strong></li></p>
+<p><li>🏢 Embeded Software Engineer @<strong><a href="https://www.linkedin.com/company/software-motion?trk=public_profile_topcard-current-company">software motion (suzhou)</a></strong></li></p>
 
-<p><li>🌱 I’m currently learning <strong>Mobile Development and RAG Systems</strong></li></p>
+<p><li>🌱 I’m currently learning <strong>Multithread Programming Using c++</strong></li></p>
 
-<p><li>💬 Ask me about <strong>Solidity, C++ and Python<strong></p>
+<p><li>💬 Ask me about <strong>C++ and Python<strong></p>
+
+
 
 <!-- My Contact Info -->
 <h3 align="left">You can reach me via:</h3>
 
 <div align="left">
 <!-- Gmail -->
-<a href="mailto:1380hamidi@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: 1380hamidi@gmail.com" width="40" height="40"/></a>
-<!-- Discord -->
-<a href="https://discord.com/users/986911034797330442" target="_blank"><img align="center" src="./images/Contact-via-images/Discord.png" alt="Discord@smai#6068" width="40" height="40" /></a>
+<a href="mailto:smhamidi@icloud.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: smhamidi@icloud.com" width="40" height="40"/></a>
 <!-- Telegram -->
 <a href="https://t.me/rsmhamidi" target="_blank"><img align="center" src="./images/Contact-via-images/Telegram.svg" alt="Telegram@rsmhamidi" width="40" height="40"/></a>
 </div>
@@ -37,8 +37,6 @@
 <!-- linux -->
 <a href="https://www.linux.org/" target="_blank"><img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
 <!-- Languages -->
-<!-- Solidity -->
-<a href="https://soliditylang.org/"><img src="./images/Languages-Tools-images/Solidity.svg" alt="Solidity" width="40" height="40"/></a>
 <!-- python -->
 <a href="https://www.python.org" target="_blank"><img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
 <!-- CPP -->
@@ -55,8 +53,6 @@
 <a href="https://www.mathworks.com/" target="_blank"><img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank"><img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
-<!-- Foundry -->
-<a href="https://getfoundry.sh/"><img src="./images/Languages-Tools-images/Foundry.png" alt="Foundry" width="40" height="40"/></a>
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank"><img src="./images/Languages-Tools-images/Docker.png" alt="Docker" width="40" height="40"/></a>
 <!-- QT -->
