@@ -10,7 +10,7 @@
 <h3 align="center">A Passionate Control-Science Engineer Who Also ❤️ Programming</h3>
 
 <!-- Quick Summary About My recent state -->
-<p><li>🏢 Embeded Software Engineer <strong><a href="https://www.linkedin.com/company/software-motion?trk=public_profile_topcard-current-company">@software motion (suzhou)</a></strong></li></p>
+<p><li>🏢 Embeded Software Engineer <strong><a href="https://sw-motion.cn/">@software motion (suzhou)</a></strong></li></p>
 <p><li>🌱 I’m currently learning <strong>Multithread Programming Using c++</strong></li></p>
 <p><li>💬 Ask me about <strong>C++ and Python<strong></p>
 
