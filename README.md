@@ -11,7 +11,7 @@
 
 <!-- Quick Summary About My recent state -->
 <p><li>🏢 Embeded Software Engineer <strong><a href="https://sw-motion.cn/">@software motion (suzhou)</a></strong></li></p>
-<p><li>🌱 I’m currently learning <strong>Multithread Programming Using c++</strong></li></p>
+<p><li>🌱 I’m currently learning <strong>DevOps in Enterprise Solutions</strong></li></p>
 <p><li>💬 Ask me about <strong>C++ and Python<strong></p>
 
 
