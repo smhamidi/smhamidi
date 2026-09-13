@@ -58,11 +58,3 @@
 <!-- QT -->
 <a href="https://www.qt.io/" target="_blank"><img src="./images/Languages-Tools-images/QT.svg" alt="QT" width="40" height="40"/></a>
 </div>
-
-<!-- Github Stats -->
-<br>
-<br>
-<div>
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhamidi&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="smhamidi most used languages" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhamidi&theme=vue-dark&hide_border=true&exclude_days=Thu%2CFri" alt="GitHub Streak" />
-</div>
